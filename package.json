@@ -123,7 +123,7 @@
     "@ethersproject/abstract-signer": "^5.3.0",
     "@ethersproject/address": "^5.3.0",
     "@ethersproject/bignumber": "^5.3.0",
-    "@ethersproject/constants": "^5.3.0",
+    "@ethersproject/constants": "^5.7.0",
     "@ethersproject/contracts": "^5.3.0",
     "@ethersproject/providers": "^5.3.1",
     "@ethersproject/strings": "^5.3.0",
