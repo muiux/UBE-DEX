@@ -6,22 +6,10 @@
 
 An open source interface for Ubeswap -- a protocol for decentralized exchange of Celo tokens.
 
-- Website: [ubeswap.org](https://ubeswap.org/)
-- Interface: [app.ubeswap.org](https://app.ubeswap.org)
-- Twitter: [@Ubeswap](https://twitter.com/Ubeswap)
-- Reddit: [/r/Ubeswap](https://www.reddit.com/r/Ubeswap/)
-- Email: [contact@ubeswap.org](mailto:contact@ubeswap.org)
-- Discord: [Ubeswap](https://discord.gg/zZkUXCMPGP)
-
 ## Accessing the Ubeswap Interface
 
 To access the Ubeswap Interface, visit [app.ubeswap.org](https://app.ubeswap.org).
 
-## Listing a token
-
-Please see the
-[@ubeswap/default-token-list](https://github.com/ubeswap/default-token-list)
-repository.
 
 ## Development
 
